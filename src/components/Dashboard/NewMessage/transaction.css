@@ -1,0 +1,44 @@
+.textCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+  font-weight: unset;
+  width: 50%;
+  margin: auto;
+}
+.cardBox{
+    margin-left: 10%;
+    margin-top:20px;
+    padding: auto;
+}
+.cardBox p{
+   /* text-align: justify; */
+   margin-top: 15px;
+}
+.cardMui{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #d9d7e5;
+    width: 70%;
+}
+.buttonBox{
+    /* write the css to set the buttons at the right side of the screen */
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
+    margin-top: 20px;
+    gap: 20px;
+}
+.buttonBox button{
+    width: 100px;
+    height: 40px;
+    /* border-radius: 10px; */
+    background-color: #d9d7e5;
+    border: 1px solid #d9d7e5;
+    font-weight: bold;
+    font-size: 15px;
+}
+

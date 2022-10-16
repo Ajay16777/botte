@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.478" height="95.111" viewBox="0 0 85.478 95.111">
+  <g id="Group_199" data-name="Group 199" transform="translate(-193.603 -979.389)">
+    <g id="Icon_feather-package" data-name="Icon feather-package" transform="translate(190.603 977.997)" opacity="0.998">
+      <path id="Path_113" data-name="Path 113" d="M52.489,30.1,11.25,6.315" transform="translate(13.87 6.805)" fill="none" stroke="#8d8d8d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_114" data-name="Path 114" d="M86.978,67.143V30.486A9.164,9.164,0,0,0,82.4,22.559L50.321,4.231a9.164,9.164,0,0,0-9.164,0L9.082,22.559A9.164,9.164,0,0,0,4.5,30.486V67.143a9.164,9.164,0,0,0,4.582,7.927L41.157,93.4a9.164,9.164,0,0,0,9.164,0L82.4,75.071a9.164,9.164,0,0,0,4.582-7.927Z" transform="translate(0 0)" fill="none" stroke="#8d8d8d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_115" data-name="Path 115" d="M4.9,10.44l40,23.14,40-23.14" transform="translate(0.832 15.281)" fill="none" stroke="#8d8d8d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_116" data-name="Path 116" d="M18,64.188V18" transform="translate(27.739 30.815)" fill="none" stroke="#8d8d8d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Icon_feather-package-2" data-name="Icon feather-package" transform="translate(190.603 977.997)" opacity="0.051">
+      <path id="Path_113-2" data-name="Path 113" d="M52.489,30.1,11.25,6.315" transform="translate(13.87 6.805)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_114-2" data-name="Path 114" d="M86.978,67.143V30.486A9.164,9.164,0,0,0,82.4,22.559L50.321,4.231a9.164,9.164,0,0,0-9.164,0L9.082,22.559A9.164,9.164,0,0,0,4.5,30.486V67.143a9.164,9.164,0,0,0,4.582,7.927L41.157,93.4a9.164,9.164,0,0,0,9.164,0L82.4,75.071a9.164,9.164,0,0,0,4.582-7.927Z" transform="translate(0 0)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_115-2" data-name="Path 115" d="M4.9,10.44l40,23.14,40-23.14" transform="translate(0.832 15.281)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_116-2" data-name="Path 116" d="M18,64.188V18" transform="translate(27.739 30.815)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
